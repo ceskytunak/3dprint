@@ -4,8 +4,8 @@
 
 This project is also available on [Printables.com](https://www.printables.com/model/630588-2-in-1-door-stopper-safe-to-step-on)
 
-![](https://github.com/ceskytunak/3dprint/blob/main/door-stoper/assets/dsc_3352.jpg)
-![](https://github.com/ceskytunak/3dprint/blob/main/door-stoper/assets/dsc_3354.jpg)
+![](https://github.com/ceskytunak/3dprint/blob/main/door-stopper/assets/dsc_3352.jpg)
+![](https://github.com/ceskytunak/3dprint/blob/main/door-stopper/assets/dsc_3354.jpg)
 
 ## Description
 
@@ -24,14 +24,14 @@ This makes the new door stopper the perfect choice for homes with children or p
 
 ### Printing Tips:
 
-![](https://github.com/ceskytunak/3dprint/blob/main/door-stoper/assets/dsc_3351.jpg)
+![](https://github.com/ceskytunak/3dprint/blob/main/door-stopper/assets/dsc_3351.jpg)
 
 -   Use a flexible filament, such as TPU 95A or TPU 90A, for best results.
 -   Set the infill to 10-20% GRID.
 -   Supports and rafts are not necessary.
 -   Use an anti-adhesive spray, such as 3D LAC, to prevent the TPU from sticking to the build plate.
 
-![](https://github.com/ceskytunak/3dprint/blob/main/door-stoper/assets/dsc_3363.jpg)
+![](https://github.com/ceskytunak/3dprint/blob/main/door-stopper/assets/dsc_3363.jpg)
 
 ### Variants:
 
