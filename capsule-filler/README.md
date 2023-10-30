@@ -2,6 +2,8 @@
 
 Compact Capsule Filler with Credit Card Mixture Dispenser
 
+This project is also available on [Printables.com](https://www.printables.com/model/630873-compact-capsule-filler-00-size-with-credit-card-mi)
+
 ## Description
 
 This compact capsule filler is designed to fill 24 capsules of size 00 in one batch using a credit card as a mixture dispenser. 
