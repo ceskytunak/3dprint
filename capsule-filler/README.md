@@ -8,7 +8,7 @@ This compact capsule filler is designed to fill 24 capsules of size 00 in on
 
 The capsule filler is made up of three functional parts: a *base frame*, a *capsule holder*, and a *stuffer*. The base frame provides a sturdy base for the capsule holder. The capsule holder is designed to hold the capsules in place while they are being filled. The stuffer is used to pack the mixture tightly into the capsules.
 
-![](./..assets/capsule-filler-version1.png)
+![](https://github.com/ceskytunak/3dprint/blob/main/capsule-filler/assets/capsule-filler-version1.png)
 
 ## Features
 
@@ -62,6 +62,7 @@ Wash the capsule filler with warm water. Do not put it in the dishwasher if prin
 ## Capsule dimensions
 
 | Attribute | Size 00 | Size 000 |
+|---|---|---|
 | Width (total) | 23.4 mm | 26.1 mm |
 | Body Height | 20.22 mm | 22.20 mm |
 | Body Diameter (external) | 8.23 mm | 9.55 mm |
