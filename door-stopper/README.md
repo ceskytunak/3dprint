@@ -4,8 +4,8 @@
 
 This project is also available on [Printables.com](https://www.printables.com/model/630588-2-in-1-door-stopper-safe-to-step-on)
 
-![](https://github.com/ceskytunak/3dprint/blob/main/door-stopper/assets/DSC_3352.jpg)
-![](https://github.com/ceskytunak/3dprint/blob/main/door-stopper/assets/DSC_3354.jpg)
+![](https://github.com/ceskytunak/3dprint/blob/main/door-stopper/assets/DSC_3362.jpg)
+![](https://github.com/ceskytunak/3dprint/blob/main/door-stopper/assets/DSC_3364.jpg)
 
 
 ## Description
