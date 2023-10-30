@@ -1,8 +1,7 @@
-# WSG/01 MFOS to Eurorack
+# Electron Analog 4 MKI - Rack Ears (19" rack Mount Kit)
+Install your Electron Analog 4 into 19" rack with this awesome rack ears.
 
-Conversion kit for desktop WSG/01 Music From Outer Space semi-modular synthesizer into Eurorack panel.
-
-This project is also available on [Printables.com](https://www.printables.com/it/model/631393-electron-analog-4-mki-rack-ears-19-rack-mount-kit)
+This project is also available on [Printables.com](https://www.printables.com/model/631393-electron-analog-4-mki-rack-ears-19-rack-mount-kit)
 
 
 ## Description
