@@ -39,8 +39,8 @@ Tightly screw together the *Capsule_filler-stuffer_base.stl* and *Capsule_fil
 
 ## Model revisions
 
-revision-2 - smaller tolerancies, more rounded corners, robust base frame and stuffer
-revision-1 - bigger tolerancies
+- revision-2 - smaller tolerancies, more rounded corners, robust base frame and stuffer
+- revision-1 - bigger tolerancies
 
 ## Usage
 
