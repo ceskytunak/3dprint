@@ -27,7 +27,7 @@ This rack case can be printed from either PLA, PETG or ASA but if you are using 
 -   Easy to assemble and disassemble
 -   Affordable and accessible
 
-![](https://github.com/ceskytunak/3dprint/blob/main/rack-holder/assets/dsc_3336.jpg)
+![](https://github.com/ceskytunak/3dprint/blob/main/rack-holder/assets/DSC_3336.JPG)
 
 ### How to use
 
@@ -77,7 +77,7 @@ This step will help to prevent the rack from wobbling or shifting.
 6.  Tighten nylon hex nuts from outer sides just at the tip of the threaded rods.
 7.  Tighten both temporary hex nut just at the side of the rack holder from the inner side.
 
-![](https://github.com/ceskytunak/3dprint/blob/main/rack-holder/assets/dsc_3338.jpg)
+![](https://github.com/ceskytunak/3dprint/blob/main/rack-holder/assets/DSC_3338.JPG)
 
 ### Vertical stacking *(optional)*
 
@@ -107,7 +107,7 @@ This requires to have *Rackholder-angled-stand.stl* printed 2x.
 -   11.5° stand can be attached into bottom holes dedicated for rack stacking.
 -   Use two M5x25 cylindrical head inbus screws per one stand and M5 hex nut respectively.
 
-![](https://github.com/ceskytunak/3dprint/blob/main/rack-holder/assets/dsc_3357.jpg)
+![](https://github.com/ceskytunak/3dprint/blob/main/rack-holder/assets/DSC_3357.JPG)
 
 Enjoy your new modular rack case!
 
