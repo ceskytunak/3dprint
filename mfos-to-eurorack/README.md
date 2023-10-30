@@ -9,7 +9,7 @@ This project is also available on [Printables.com](https://www.printables.com/mo
 
 This kit allows you to convert your desktop WSG/01 MFOS (Weird Sound Generator from Music From Outer Space) semi-modular synthesizer into a Eurorack module.
 
-![](https://github.com/ceskytunak/3dprint/tree/main/mfos-to-eurorack/assets/DSC_3218.jpg)
+![](https://github.com/ceskytunak/3dprint/blob/main/mfos-to-eurorack/assets/DSC_3218.jpg)
 
 ### Features
 
@@ -51,11 +51,11 @@ Designed with Autodesk Fusion 360 Personal
 
 ## Images
 
-![](https://github.com/ceskytunak/3dprint/tree/main/mfos-to-eurorack/assets/DSC_2683.jpg)
-![](https://github.com/ceskytunak/3dprint/tree/main/mfos-to-eurorack/assets/DSC_2682.jpg)
-![](https://github.com/ceskytunak/3dprint/tree/main/mfos-to-eurorack/assets/DSC_2681.jpg)
-![](https://github.com/ceskytunak/3dprint/tree/main/mfos-to-eurorack/assets/DSC_2680.jpg)
-![](https://github.com/ceskytunak/3dprint/tree/main/mfos-to-eurorack/assets/DSC_2679.jpg)
+![](https://github.com/ceskytunak/3dprint/blob/main/mfos-to-eurorack/assets/DSC_2683.jpg)
+![](https://github.com/ceskytunak/3dprint/blob/main/mfos-to-eurorack/assets/DSC_2682.jpg)
+![](https://github.com/ceskytunak/3dprint/blob/main/mfos-to-eurorack/assets/DSC_2681.jpg)
+![](https://github.com/ceskytunak/3dprint/blob/main/mfos-to-eurorack/assets/DSC_2680.jpg)
+![](https://github.com/ceskytunak/3dprint/blob/main/mfos-to-eurorack/assets/DSC_2679.jpg)
 
 ## License
 
