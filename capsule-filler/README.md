@@ -37,6 +37,11 @@ The capsule filler is made up of three functional parts: a *base frame*, a *ca
 
 Tightly screw together the *Capsule_filler-stuffer_base.stl* and *Capsule_filler-stuffer_handle.stl* parts using two *M3x8 cylindrical head inbus screws (DIN 912)* and two *M3 hex nylon nuts*.
 
+## Model revisions
+
+revision-2 - smaller tolerancies, more rounded corners, robust base frame and stuffer
+revision-1 - bigger tolerancies
+
 ## Usage
 
 To use the capsule filler, simply place the capsule holder on top of the base frame and load the capsule bottoms into the holes. Then, dispense the desired mixture equally over the capsules using the credit card mixture dispenser. Take the stuffer and pack the mixture tightly into the capsules. Repeat steps 3 and 4 one or two more times, if desired.
