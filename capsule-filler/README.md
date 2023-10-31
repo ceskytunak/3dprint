@@ -4,6 +4,9 @@ Compact Capsule Filler with Credit Card Mixture Dispenser
 
 This project is also available on [Printables.com](https://www.printables.com/model/630873-compact-capsule-filler-00-size-with-credit-card-mi)
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jakubkriz)
+
+
 ## Description
 
 This compact capsule filler is designed to fill 24 capsules of size 00 in one batch using a credit card as a mixture dispenser. 
@@ -39,6 +42,7 @@ Tightly screw together the *Capsule_filler-stuffer_base.stl* and *Capsule_fil
 
 ## Model revisions
 
+- revision-3 -  longer stuffing bay, better handle and mounting hole, fillet optmizations 
 - revision-2 - smaller tolerancies, more rounded corners, robust base frame and stuffer
 - revision-1 - bigger tolerancies
 
