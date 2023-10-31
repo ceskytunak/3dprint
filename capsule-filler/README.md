@@ -4,6 +4,7 @@ Compact Capsule Filler with Credit Card Mixture Dispenser
 
 This project is also available on [Printables.com](https://www.printables.com/model/630873-compact-capsule-filler-00-size-with-credit-card-mi)
 
+If you like this project
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jakubkriz)
 
 
