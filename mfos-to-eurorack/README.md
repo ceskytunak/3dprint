@@ -4,6 +4,9 @@ Conversion kit for desktop WSG/01 Music From Outer Space semi-modular synthesize
 
 This project is also available on [Printables.com](https://www.printables.com/model/553776-wsg01-mfos-to-eurorack)
 
+If you like this project
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jakubkriz)
+
 
 ## Description
 

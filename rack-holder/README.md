@@ -4,6 +4,9 @@ Modular rack case for your electronics, stackable, durable and with optional add
 
 This project is also available on [Printables.com](https://www.printables.com/model/629175-modular-rack-case-for-musical-gear)
 
+If you like this project
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jakubkriz)
+
 ## Description
 
 This modular 4U height rack case is the perfect solution for storing and organizing your musical gear. It can hold up to four independent modules, and multiple cases can be stacked together and reinforced with steel threaded rods for added stability. The connecting bolts and nuts are designed for M5, and either standard or nylon nuts can be used.

@@ -4,6 +4,9 @@
 
 This project is also available on [Printables.com](https://www.printables.com/model/630588-2-in-1-door-stopper-safe-to-step-on)
 
+If you like this project
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jakubkriz)
+
 ![](https://github.com/ceskytunak/3dprint/blob/main/door-stopper/assets/DSC_3362.jpg)
 ![](https://github.com/ceskytunak/3dprint/blob/main/door-stopper/assets/DSC_3364.jpg)
 

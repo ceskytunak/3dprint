@@ -3,6 +3,9 @@ Install your Electron Analog 4 into 19" rack with this awesome rack ears.
 
 This project is also available on [Printables.com](https://www.printables.com/model/631393-electron-analog-4-mki-rack-ears-19-rack-mount-kit)
 
+If you like this project
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jakubkriz)
+
 
 ## Description
 
