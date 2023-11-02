@@ -78,7 +78,7 @@ I wanted to make wide range of bottle sizes and cap designs. All parameters are 
 
 ## BrainZap!
 
-This PillBox was designed for the project [BrainZap! Open Source Brain Supplement](https://brainzup.space). Check this out.
+This PillBox was designed for the project [BrainZap! Open Source Brain Supplement](https://brainzap.space). Check this out.
 
 ## Inspiration
 
