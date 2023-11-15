@@ -9,9 +9,9 @@ If you like this project
 
 ## Description
 
-![](https://github.com/ceskytunak/3dprint/blob/main/strong-furniture-shelf-bracket/assets/fusion-bracket.png)
+![](https://github.com/ceskytunak/3dprint/blob/main/furniture-shelf-bracket/assets/fusion-bracket.png)
 
-[ PDF](https://files.printables.com/media/prints/647609/pdfs/647609-strong-furniture-shelf-bracket-d1dbb44b-4f33-46d3-ace9-64d360c414e3.pdf)
+[PDF](https://files.printables.com/media/prints/647609/pdfs/647609-strong-furniture-shelf-bracket-d1dbb44b-4f33-46d3-ace9-64d360c414e3.pdf)
 
 Never let your shelves sag again with these strong and stylish furniture shelf brackets. Optimized for the Prusa Mini, these brackets are easy to print and will provide sturdy support for your shelves.
 
@@ -45,8 +45,6 @@ With these brackets, you can keep your shelves looking their best and prevent th
 Designed with Autodesk Fusion 360 Personal
 
 ## License
-
-Shield: 
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
