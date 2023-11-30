@@ -4,6 +4,7 @@ Delve into my 3D model collection, where a treasure trove of intricate designs a
 
 ## Models
 
+- [Bookshelf Vertical Headphones Hanger](https://github.com/ceskytunak/3dprint/tree/main/headphones_hanger_vertical)
 - [Corner Brackets](https://github.com/ceskytunak/3dprint/tree/main/corner-brackets)
 - [Multi-purpose Light Stand for Theatre Lights Stairville LED PAR 36](https://github.com/ceskytunak/3dprint/tree/main/stairville-light-stand)
 - [Capsule Filler](https://github.com/ceskytunak/3dprint/tree/main/capsule-filler)
