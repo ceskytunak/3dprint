@@ -4,6 +4,7 @@ Delve into my 3D model collection, where a treasure trove of intricate designs a
 
 ## Models
 
+- [Red Devil Ice Scraper](https://github.com/ceskytunak/3dprint/tree/main/red-devil-ice-scraper)
 - [Desk Headphones Hanger](https://github.com/ceskytunak/3dprint/tree/main/headphones_hanger_horizontal)
 - [Bookshelf Vertical Headphones Hanger](https://github.com/ceskytunak/3dprint/tree/main/headphones_hanger_vertical)
 - [Corner Brackets](https://github.com/ceskytunak/3dprint/tree/main/corner-brackets)
